@@ -1,5 +1,6 @@
 #this program will score the similarity between two grids
 
+# reasoning below
 # d = Dimensional Similarity
 # o = Object Similarity
 # c = Color Similarity
